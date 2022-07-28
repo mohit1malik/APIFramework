@@ -1,3 +1,5 @@
+package testCases;
+
 import org.testng.annotations.DataProvider;
 
 public class DataForTests {
