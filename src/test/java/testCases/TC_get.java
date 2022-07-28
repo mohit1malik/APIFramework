@@ -1,3 +1,5 @@
+package testCases;
+
 import static io.restassured.RestAssured.*;
 
 import io.restassured.RestAssured;
